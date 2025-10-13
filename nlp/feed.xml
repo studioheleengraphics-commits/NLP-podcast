@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mijn NLP podcast</title>
+    <link>https://example.com</link>
+    <description>Persoonlijke audiologs – alleen voor mensen met de link</description>
+    <language>nl-nl</language>
+
+    <item>
+      <title>Dag 1_nlp intro</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1i6Ts6ZkBrUhFr3Snhml3IihhhU7ZJqTH" type="audio/wav"/>
+      <guid>aflevering1</guid>
+      <pubDate>Fri, 06 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 2_rapport</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1fCbRhhnkdptzb3lu3D2P5RPGJj-4wxzM" type="audio/wav"/>
+      <guid>aflevering2</guid>
+      <pubDate>Fri, 06 Jun 2025 10:15:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 3_spiegelen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1rzVumfM4H-h5YEzfgNJN_Ub9T5qxdq10" type="audio/wav"/>
+      <guid>aflevering3</guid>
+      <pubDate>Fri, 06 Jun 2025 10:25:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 4_nlp-stemgebruik</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1ORre6CM43Qoj87Xbu74saTFMcPPbDC7K" type="audio/wav"/>
+      <guid>aflevering4</guid>
+      <pubDate>Fri, 06 Jun 2025 10:27:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 5_taal matchen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1jVWX33w-wRlLUTGzhvGnQP6wE2ljiEHa" type="audio/wav"/>
+      <guid>aflevering5</guid>
+      <pubDate>Fri, 06 Jun 2025 10:30:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 6_auditiefdigitaal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=11lux8ECl22mAqvUA2dK1Dlh4BtuTW_0e" type="audio/wav"/>
+      <guid>aflevering6</guid>
+      <pubDate>Fri, 06 Jun 2025 10:35:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 7_rapport-begint-bij-jou</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1tIp7g5XvvyqXhmo4LV4Rk75xp_x3B-4Y" type="audio/wav"/>
+      <guid>aflevering7</guid>
+      <pubDate>Fri, 06 Jun 2025 10:40:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 8_pacing-leading</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1dyHBXPWRfYCpWN3TzImEhNxJjwkuFgfL" type="audio/wav"/>
+      <guid>aflevering8</guid>
+      <pubDate>Fri, 06 Jun 2025 10:45:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 9_refelectie-integratie</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1El0P-hjspQ-crsiT-4mtrCly8EcWgmM6" type="audio/wav"/>
+      <guid>aflevering9</guid>
+      <pubDate>Fri, 06 Jun 2025 10:50:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 10_rapport-checklist</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=16WvzvhdiGcsQJWbfneF3JWe08hcth21y" type="audio/wav"/>
+      <guid>aflevering10</guid>
+      <pubDate>Fri, 06 Jun 2025 10:55:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Dag 11-de-kracht-van-ankeren</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1hMKpHLi8MlMKTa5CRzIHT3zDn-tOmBkt" type="audio/wav"/>
+      <guid>aflevering11</guid>
+      <pubDate>Fri, 06 Jun 2025 11:00:00 +0000</pubDate>
+    </item>
+	
+    <item>
+      <title>Dag 12_herbeleef-gevoel</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=180R-Lgr_AmiRSOybUto-vUu2mybFkz0V" type="audio/wav"/>
+      <guid>aflevering12</guid>
+      <pubDate>Fri, 06 Jun 2025 11:05:00 +0000</pubDate>
+    </item>
+	
+    <item>
+      <title>Dag 13_eerste anker</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1OW0VZ-fCs8rc813GdEhwjalNSAgBY0a4" type="audio/wav"/>
+      <guid>aflevering13</guid>
+      <pubDate>Fri, 06 Jun 2025 11:10:00 +0000</pubDate>
+    </item>	
+	
+    <item>
+      <title>Dag 14_versterk je anker</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1kedv4-XjJuZJh1rWBiqkayCOaZNwocMB" type="audio/wav"/>
+      <guid>aflevering14</guid>
+      <pubDate>Fri, 06 Jun 2025 11:15:00 +0000</pubDate>
+    </item>	
+	
+    <item>
+      <title>Dag 15_test je anker</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=13u-2pn-tLxifHbRjqu6CGzJcgrxIkHZn" type="audio/wav"/>
+      <guid>aflevering15</guid>
+      <pubDate>Fri, 06 Jun 2025 11:20:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 16_speel-voel-versterk</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1JBpSI3SyxvL0JTzrFdsWUDUBpDXNUYzL" type="audio/wav"/>
+      <guid>aflevering16</guid>
+      <pubDate>Fri, 06 Jun 2025 11:25:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 17_ anker in actie</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1vGyi8G8SCb2mohz4bMNlS0m19dAWeMoA" type="audio/wav"/>
+      <guid>aflevering17</guid>
+      <pubDate>Fri, 06 Jun 2025 11:30:00 +0000</pubDate>
+    </item>			
+		
+    <item>
+      <title>Dag 18_anker afsluiting</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1VdVTy5X03oTV5I3gExjs8FJJxhL0jHBz" type="audio/wav"/>
+      <guid>aflevering18</guid>
+      <pubDate>Fri, 06 Jun 2025 11:35:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 19_stemming bepaalt wereld</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1PlvXqLpuzAT1V9aVreQw6k5gq4GB0iQz" type="audio/wav"/>
+      <guid>aflevering19</guid>
+      <pubDate>Fri, 06 Jun 2025 11:40:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 20_3 bouwstenen stemming</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1XXzp9hr11FTgWABtUh2-9sXFt6qOP4MA" type="audio/wav"/>
+      <guid>aflevering20</guid>
+      <pubDate>Fri, 06 Jun 2025 11:45:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 21_Focus bepaalt stemming</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1njXYTglPCGMJpgf3_-bW4_XKxRWkwK3J" type="audio/wav"/>
+      <guid>aflevering21</guid>
+      <pubDate>Fri, 06 Jun 2025 11:50:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 22_lichaam liegt nooit</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1oBSsYbV2RDy9tO6PCDF713kFdhHSr2NS" type="audio/wav"/>
+      <guid>aflevering22</guid>
+      <pubDate>Fri, 06 Jun 2025 11:55:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 23_taal-doet-ertoe</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1tx7nWkreUbXMSc3nGHOaQdcUYp-SC9Pn" type="audio/wav"/>
+      <guid>aflevering23</guid>
+      <pubDate>Fri, 06 Jun 2025 12:00:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 24_taal verzachten</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1jZ95ZGXqg2ELyS8DCm9HTvjJTMOXIHWe" type="audio/wav"/>
+      <guid>aflevering24</guid>
+      <pubDate>Sat, 07 Jun 2025 12:05:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 25_van-blokkade-naar-beweging</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1VJL7pqrzsU0pEj9VjtqIutMlm27q_Ruu" type="audio/wav"/>
+      <guid>aflevering25</guid>
+      <pubDate>Sat, 07 Jun 2025 12:10:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 26_State switches</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1I8hSI1yEce9bYu9lfHqxvam3STMw2oci" type="audio/wav"/>
+      <guid>aflevering26</guid>
+      <pubDate>Sat, 07 Jun 2025 12:15:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 27_stateplan</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1FXbO28hxNqCO-faZ7QF5AOoi-TbzE7Dl" type="audio/wav"/>
+      <guid>aflevering27</guid>
+      <pubDate>Sat, 07 Jun 2025 12:20:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 28_taalpatronen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1bS7eP1geeK-vFRcI1EIgQSBVEmnU2QSN" type="audio/wav"/>
+      <guid>aflevering28</guid>
+      <pubDate>Sat, 07 Jun 2025 12:25:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 29_moeten-willen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1htfJvdOzmIkHRpWbHEhfQarNF0w9i6rT" type="audio/wav"/>
+      <guid>aflevering29</guid>
+      <pubDate>Sat, 07 Jun 2025 12:30:00 +0000</pubDate>
+    </item>	
+		
+    <item>
+      <title>Dag 30_veralgemening</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1XStWNxLP3TvfNV6ojqZnskwy_I1zHv8w" type="audio/wav"/>
+      <guid>aflevering30</guid>
+      <pubDate>Sat, 07 Jun 2025 12:35:00 +0000</pubDate>
+    </item>	
+	
+	  <item>
+      <title>Dag 31_identiteitstaal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1yohfbmZp7nToBha9JOKauhl8-O5epJbd" type="audio/wav"/>
+      <guid>aflevering31</guid>
+      <pubDate>Sun, 08 Jun 2025 10:00:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag 32_weglatingen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1C5KnKbY0BMUyLA1HFIb0K3qSHfHuHaQv" type="audio/wav"/>
+      <guid>aflevering32</guid>
+      <pubDate>Sun, 08 Jun 2025 10:05:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag 33_vervormingen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1g5ds39XuZQt2i5wzroA_b807_uPOvDh-" type="audio/wav"/>
+      <guid>aflevering33</guid>
+      <pubDate>Sun, 08 Jun 2025 10:10:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag 34_normalisaties</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1XF8d8ZE-t7GwaR_nuCW53xXzqCAXvgbY" type="audio/wav"/>
+      <guid>aflevering34</guid>
+      <pubDate>Sun, 08 Jun 2025 10:15:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag 35_taal-levend</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=12jCx7cAGsfJET19whAdb6HCg9GJhYnR5" type="audio/wav"/>
+      <guid>aflevering35</guid>
+      <pubDate>Sun, 08 Jun 2025 10:20:00 +0000</pubDate>
+    </item>		
+	
+	<item>
+      <title>Dag 36-Integratie</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1b9OGpPnEr_hu_lRyKSBdoRdb_6sGmZyu" type="audio/wav"/>
+      <guid>aflevering36</guid>
+      <pubDate>Sun, 08 Jun 2025 10:25:00 +0000</pubDate>
+    </item>			
+	
+	<item>
+      <title>Dag 37_ Wat is reframen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1m0zm1nm2A9sbU0qOTu1LcOg2SQFy-0nO" type="audio/wav"/>
+      <guid>aflevering37</guid>
+      <pubDate>Sun, 08 Jun 2025 10:30:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag 38_beperkende betekenissen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1L45RUjFlmx3XrbJFxnkqlxQks8vLWlpz" type="audio/wav"/>
+      <guid>aflevering38</guid>
+      <pubDate>Sun, 08 Jun 2025 10:35:00 +0000</pubDate>
+    </item>		
+	
+	<item>
+      <title>Dag 39_context reframes</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1tg9gGBX8Rmck-eLgYc3h7E2GGHAhEmbT" type="audio/wav"/>
+      <guid>aflevering39</guid>
+      <pubDate>Sun, 08 Jun 2025 10:40:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag 40_Betekenis-reframes</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1R9Ztfyy2oJv7HigGzzyIVMCwlbnt0B2p" type="audio/wav"/>
+      <guid>aflevering40</guid>
+      <pubDate>Mon, 09 Jun 2025 10:00:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag 41_innerlijke stem</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=18Ru4Vd45o5kmLJ4YgzBo-LaAWG30SdKd" type="audio/wav"/>
+      <guid>aflevering41</guid>
+      <pubDate>Mon, 09 Jun 2025 10:05:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 42_innerlijke stemmen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=18e-mhMBkv3DhY6vctJveDSl69Dnpw5sN" type="audio/wav"/>
+      <guid>aflevering42</guid>
+      <pubDate>Mon, 09 Jun 2025 10:10:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 43_reframen-blokkades</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1-ldVY1Xiu2FA4aBD2hI6t8pds7LEWOKE" type="audio/wav"/>
+      <guid>aflevering43</guid>
+      <pubDate>Mon, 09 Jun 2025 10:15:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 44_innerlijke taal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1efMuyomzaVP8e7Ag89Feq4GGiLjlltTl" type="audio/wav"/>
+      <guid>aflevering44</guid>
+      <pubDate>Mon, 09 Jun 2025 10:20:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 45_externe-taal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1bmfV_zURNU7pxXEnlIgsjtdqzy62Flg3" type="audio/wav"/>
+      <guid>aflevering45</guid>
+      <pubDate>Mon, 09 Jun 2025 10:25:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 46_reframes-in-gesprek</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1uGW2GfGXf5TXVD8YfQ2WhTq-jVGmBPKb" type="audio/wav"/>
+      <guid>aflevering46</guid>
+      <pubDate>Mon, 09 Jun 2025 10:30:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 47_zelfreframing-gewoonte</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1QoQnCdCqoEycJLSJDHzmVVeahgmrgpB-" type="audio/wav"/>
+      <guid>aflevering47</guid>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 +0000</pubDate>
+    </item>		
+			
+	<item>
+      <title>Dag 48_reframen-met-metaforen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1SS--C33eZGgHaA2JAY5gSsvKmH9WI8Vs" type="audio/wav"/>
+      <guid>aflevering48</guid>
+      <pubDate>Sun, 15 Jun 2025 10:05:00 +0000</pubDate>
+    </item>		
+				
+	<item>
+      <title>Dag 49_identiteitsreframes</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1TssgNqyT8Kv61sY9CgL5IKCJ8T5Jvzcb" type="audio/wav"/>
+      <guid>aflevering49</guid>
+      <pubDate>Sun, 15 Jun 2025 10:10:00 +0000</pubDate>
+    </item>		
+				
+	<item>
+      <title>Dag 50_Valkuilen bij reframen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=16JNHpDnuS4PLpEzOZkg3hOsWWdFiztGN" type="audio/wav"/>
+      <guid>aflevering50</guid>
+      <pubDate>Sun, 15 Jun 2025 10:15:00 +0000</pubDate>
+    </item>		
+				
+	<item>
+      <title>Dag 51_energetisch-reframen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1nt2cSszLEmjvLqqIsWC90cOMc6R15cFl" type="audio/wav"/>
+      <guid>aflevering51</guid>
+      <pubDate>Sun, 15 Jun 2025 10:20:00 +0000</pubDate>
+    </item>		
+				
+	<item>
+      <title>Dag 52_je-levensverhaal-reframen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1dfZKHsayk4faOZeYYW3u0XbihNHwUnwz" type="audio/wav"/>
+      <guid>aflevering52</guid>
+      <pubDate>Sun, 22 Jun 2025 10:00:00 +0000</pubDate>
+    </item>		
+				
+	<item>
+      <title>Dag 53_trigger-transformatie</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Ne9r34-E_Q6O5VzMuQiwcZ2E_Sg6ug_6" type="audio/wav"/>
+      <guid>aflevering53</guid>
+      <pubDate>Sun, 22 Jun 2025 10:05:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 54_integratie</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1_Y47fvPaJCW5MNQe105cRemCol28FxJ0" type="audio/wav"/>
+      <guid>aflevering54</guid>
+      <pubDate>Sun, 22 Jun 2025 10:10:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 55_Terugblik en Vooruitzicht</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1BGbSKKcR_nVD8BAGegVDj8ZfET4SGM1F" type="audio/wav"/>
+      <guid>aflevering55</guid>
+      <pubDate>Sun, 22 Jun 2025 10:15:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 56_Wat zijn submodaliteiten</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1elUYeYTOh93OACppfPGLnPYwNoG6deX_" type="audio/wav"/>
+      <guid>aflevering56</guid>
+      <pubDate>Sun, 29 Jun 2025 10:10:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 57_Visuele submodaliteiten veranderen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1WfoBhJ8YIOddBblVYtihX1VC4Hhq1IXC" type="audio/wav"/>
+      <guid>aflevering57</guid>
+      <pubDate>Sun, 29 Jun 2025 10:15:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 58_Auditieve submodaliteiten veranderen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Ym0i8F5nBa4eKOfEV0cgFxm5P2tx8NEg" type="audio/wav"/>
+      <guid>aflevering58</guid>
+      <pubDate>Sun, 29 Jun 2025 10:20:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 59_Kinesthetische Submodaliteiten</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1JcaKeqRIgih0ETfrZjHqcRKDfwqkl7Xt" type="audio/wav"/>
+      <guid>aflevering59</guid>
+      <pubDate>Sun, 29 Jun 2025 10:25:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 60_Submodaliteiten herkennen in je eigen taal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1pCXvgNr0azpRhh9KJ_SrUs6GE6S3Xr0Y" type="audio/wav"/>
+      <guid>aflevering60</guid>
+      <pubDate>Sun, 6 Jul 2025 10:00:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 61_de Swish-techniek</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Rwy1UjzGWHIk_CWWWtSP1xIEBIcVekEL" type="audio/wav"/>
+      <guid>aflevering61</guid>
+      <pubDate>Sun, 6 Jul 2025 10:05:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 62_De Swish-techniek verdiept</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=12wemQZEHV5dFOQV1FfE_NEaTZV74Lec2" type="audio/wav"/>
+      <guid>aflevering62</guid>
+      <pubDate>Sun, 6 Jul 2025 10:10:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 63_De Swish toepassen op belemmerende herinneringen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=10vwPmYDbfNPGALvnh5eF7cLOkstBnvwZ" type="audio/wav"/>
+      <guid>aflevering63</guid>
+      <pubDate>Sun, 6 Jul 2025 10:15:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 64_Submodaliteiten in motivatie en besluitvorming</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1JzBPOoFU2mZGpne1Pjl-JQGKgepwbij7" type="audio/wav"/>
+      <guid>aflevering64</guid>
+      <pubDate>Sun, 6 Jul 2025 10:20:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 65_Integratiedag Submodaliteiten</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1CPFF563ypkTi-GELd43vSYBYwmKobKp6" type="audio/wav"/>
+      <guid>aflevering65</guid>
+      <pubDate>Sun, 6 Jul 2025 10:25:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 66_Wat je gelooft is niet altijd wat je denkt</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1eZ53YximCgKmOW9X50TaSvpQxprpJ0WD" type="audio/wav"/>
+      <guid>aflevering66</guid>
+      <pubDate>Sun, 13 Jul 2025 10:00:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 67_Wat is een overtuiging eigenlijk</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1gfRPUb6XxXm7ffDtyCenP82mpi7tOMx9" type="audio/wav"/>
+      <guid>aflevering67</guid>
+      <pubDate>Sun, 13 Jul 2025 10:05:00 +0000</pubDate>
+    </item>	
+				
+	<item>
+      <title>Dag 68_Hoe_ontstaan_overtuigingen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1TzeOZ0NVS_2Lc_IL_odrfh-owa1ZqFVK" type="audio/wav"/>
+      <guid>aflevering68</guid>
+      <pubDate>Sun, 13 Jul 2025 10:10:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_69_Beperkende_overtuigingen_herkennen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1iLtTvJ42tKP3ihiHQBZ7ciQ7Zi_GaVqB" type="audio/wav"/>
+      <guid>aflevering69</guid>
+      <pubDate>Sun, 13 Jul 2025 10:15:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_70_Overtuigingen_en_submodaliteiten</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1KsuX-5NOz8ebc1jCOqxXkmfkRVX7BXwL" type="audio/wav"/>
+      <guid>aflevering70</guid>
+      <pubDate>Sun, 13 Jul 2025 10:20:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_71_Bewijzen_verzamelen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1XYU1yI72vO_HhW_YRhEanANKcWXe3aE_" type="audio/wav"/>
+      <guid>aflevering71</guid>
+      <pubDate>Sun, 13 Jul 2025 10:25:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_72_De_‘As_if’_oefening</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1wON5dNWu2wqa7CCqsAh4IbN8jgDXtA91" type="audio/wav"/>
+      <guid>aflevering72</guid>
+      <pubDate>Sun, 20 Jul 2025 10:00:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_73_Van_beperking_naar_mogelijkheid</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1WGqad7BsheqkZVbJE4eB-xk2zggziewa" type="audio/wav"/>
+      <guid>aflevering73</guid>
+      <pubDate>Sun, 20 Jul 2025 10:05:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_74_Overtuigingen_en_taal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1d2DvWhOiBxPszHFso6G_xLWxzI5sX2Z7" type="audio/wav"/>
+      <guid>aflevering74</guid>
+      <pubDate>Sun, 20 Jul 2025 10:10:00 +0000</pubDate>
+    </item>	
+						
+	<item>
+      <title>Dag_75_De_kracht_van_overtuigingen_in_je_lijf</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=11KX4tyMCRM52rYRAxXNxcVJ0GqEtE8uP" type="audio/wav"/>
+      <guid>aflevering75</guid>
+      <pubDate>Sun, 20 Jul 2025 10:15:00 +0000</pubDate>
+    </item>	
+			
+	<item>
+      <title>Dag_76_Integratiedag__Werken_met_overtuigingen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=14zdJuj-mSgY4y3X6DVuA9E1et8BID6JX" type="audio/wav"/>
+      <guid>aflevering76</guid>
+      <pubDate>Sun, 20 Jul 2025 10:20:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_77_Bonusoefening__Schrijf_je_verhaal_opnieuw</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1jj00NtRUn-Yo72BoyzaxM2IHihbP_duP" type="audio/wav"/>
+      <guid>aflevering77</guid>
+      <pubDate>Sun, 20 Jul 2025 10:25:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_78_Hoe_diep_wil_je_gaan</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1bLA4arlnWXYV4W_kTfCbQ2nW9d2W7GT7" type="audio/wav"/>
+      <guid>aflevering78</guid>
+      <pubDate>Sun, 27 Jul 2025 10:00:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_79_Wie_is_Robert_Dilts</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1snSJGXMCNo8dNovNNQZTIpal3ajmvG6s" type="audio/wav"/>
+      <guid>aflevering79</guid>
+      <pubDate>Sun, 27 Jul 2025 10:05:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_80_Wat_zijn_de_logische_niveaus_van_verandering</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1sktEclCmpzUkququjLn_KNocNvNEzzgj" type="audio/wav"/>
+      <guid>aflevering80</guid>
+      <pubDate>Sun, 27 Jul 2025 10:10:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_81_Herkennen_op_welk_niveau_een_probleem_zich_afspeelt</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1EFJU27Ms1oSzn22yMgL0JyVoKbLL7OgD" type="audio/wav"/>
+      <guid>aflevering81</guid>
+      <pubDate>Sun, 27 Jul 2025 10:15:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_82_Werken_op_omgevingsniveau</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1-4RP9bQGttkTvKO1K48pTFfMWdF2IKSE" type="audio/wav"/>
+      <guid>aflevering82</guid>
+      <pubDate>Sun, 27 Jul 2025 10:20:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_83_Werken_op_gedragsniveau</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=17GLKybxIHwLfCLQ5n6FdqimILGNE6hzj" type="audio/wav"/>
+      <guid>aflevering83</guid>
+      <pubDate>Sun, 27 Jul 2025 10:25:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_84_Werken_op_vaardigheidsniveau</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1EV2IHQ0ijTpfk3RnCA0TDAqK7hI4Inwn" type="audio/wav"/>
+      <guid>aflevering84</guid>
+      <pubDate>Sun, 27 Jul 2025 10:30:00 +0000</pubDate>
+    </item>	
+			
+	<item>
+      <title>Dag_85_Een_bewuste_leersprong</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=10247AYmacDmHaEhMoV9zsB8mwA5m8iix" type="audio/wav"/>
+      <guid>aflevering85</guid>
+      <pubDate>Sun, 03 Aug 2025 10:00:00 +0000</pubDate>
+    </item>	
+			
+	<item>
+      <title>Dag_86_Werken_op_identiteitsniveau</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=14bhzVj5sKxryYTRxIUMtKOXftZf1-Y8O" type="audio/wav"/>
+      <guid>aflevering86</guid>
+      <pubDate>Sun, 03 Aug 2025 10:05:00 +0000</pubDate>
+    </item>	
+			
+	<item>
+      <title>Dag_87_Werken_met_missie_en_zingeving</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=14DkfgyhY5JwX0mhlfGsQ4SihxTIzEBRo" type="audio/wav"/>
+      <guid>aflevering87</guid>
+      <pubDate>Sun, 03 Aug 2025 10:10:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_88_Van_onder_naar_boven</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=19cCi58fb-smAaokyTR7B_8O8lDUJL_6c" type="audio/wav"/>
+      <guid>aflevering88</guid>
+      <pubDate>Sun, 03 Aug 2025 10:15:00 +0000</pubDate>
+    </item>	
+			
+	<item>
+      <title>Dag_89_Jouw_eigen_logische_niveaus_in_kaart</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=13LW6TRb-lKWzh3SCkYAvwC27dy71npwj" type="audio/wav"/>
+      <guid>aflevering89</guid>
+      <pubDate>Sun, 03 Aug 2025 10:20:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_90_Integratiedag__inzichten_en_veranderingen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1oqUWEnOKrPWDd9Q2BDj8RpPZntwsaubZ" type="audio/wav"/>
+      <guid>aflevering90</guid>
+      <pubDate>Sun, 03 Aug 2025 10:25:00 +0000</pubDate>
+    </item>	
+		
+	<item>
+      <title>Dag_91_De_4_leerfasen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1d7PX5-lDWUaQdYxj5fY54hcM0EpryUPW" type="audio/wav"/>
+      <guid>aflevering91</guid>
+      <pubDate>Sun, 03 Aug 2025 10:30:00 +0000</pubDate>
+    </item>		
+	
+	<item>
+      <title>Dag_92_De_4_fasen_van_leren_analyseren</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1a1MRE-BBS44QkgvYiIPy2m_y4avYS8d6" type="audio/wav"/>
+      <guid>aflevering92</guid>
+      <pubDate>Sun, 10 Aug 2025 10:00:00 +0000</pubDate>
+    </item>		
+	
+	<item>
+      <title>Dag_93_Waar_sta_jij_in_het_leerproces</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1qxYMSZHLzxgbYs5OwkTtPfquelPLYIzN" type="audio/wav"/>
+      <guid>aflevering93</guid>
+      <pubDate>Sun, 10 Aug 2025 10:05:00 +0000</pubDate>
+    </item>		
+
+	<item>
+      <title>Dag_94_Van_leren_naar_leiden</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Lo2veP0_gfpvl65iW0_wReyusVL5jApQ" type="audio/wav"/>
+      <guid>aflevering94</guid>
+      <pubDate>Sun, 10 Aug 2025 10:10:00 +0000</pubDate>
+    </item>		
+
+	<item>
+      <title>Dag_95_Waarden_en_Overtuigingen__Je_Innerlijke_Kompas</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1lHw6RBh3ofY6Zebc-RBY_hSha0NWMcwQ" type="audio/wav"/>
+      <guid>aflevering95</guid>
+      <pubDate>Sun, 10 Aug 2025 10:15:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag_96_Het_verschil_tussen_waarden_en_overtuigingen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1wUbVn9QPebOKq1sm0kLXmb0XSHO9ut8E" type="audio/wav"/>
+      <guid>aflevering96</guid>
+      <pubDate>Sun, 10 Aug 2025 10:20:00 +0000</pubDate>
+    </item>	
+	
+	<item>
+      <title>Dag_97_Hoe_herken_je_jouw_kernwaarden_in_gedrag_en_taal</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1D6p4NPRp_n83ckN7PnlcOr2NRycoMgij" type="audio/wav"/>
+      <guid>aflevering97</guid>
+      <pubDate>Sun, 10 Aug 2025 10:25:00 +0000</pubDate>
+    </item>
+	
+	<item>
+      <title>Dag_98_Waardenhiërarchie_-_Wat_staat_bovenaan_</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=191GY2_YlgOFmyUifGmcGT9tZr5i6cks8" type="audio/wav"/>
+      <guid>aflevering98</guid>
+      <pubDate>Sun, 10 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
+	
+	<item>
+      <title>Dag_99_Interne_conflicten_begrijpen_via_waarden</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1WQs-Ijyxwv9uxotPUrCtBMg4I_kJY7uc" type="audio/wav"/>
+      <guid>aflevering99</guid>
+      <pubDate>Sun, 17 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+	
+	<item>
+      <title>Dag_100_Wat_je_waarden_je_eigenlijk_proberen_te_vertellen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1w7yXePD0Ygi-_fzWEvDyVFzBZRIp2StS" type="audio/wav"/>
+      <guid>aflevering100</guid>
+      <pubDate>Sun, 17 Aug 2025 10:05:00 +0000</pubDate>
+    </item>
+	
+	<item>
+      <title>Dag_101_Bewust_beïnvloeden_van_je_eigen_waarden</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Rlz-LZEhFi3PuVwEiiqlvTH0q6_QTbN6" type="audio/wav"/>
+      <guid>aflevering101</guid>
+      <pubDate>Sun, 17 Aug 2025 10:10:00 +0000</pubDate>
+    </item>
+	
+	<item>
+      <title>Dag_102_Hoe_je_waarden_inzet_als_motivatiebron</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1yPLoIcQfKpO8-eci6-KckEHfmdeonlRZ" type="audio/wav"/>
+      <guid>aflevering102</guid>
+      <pubDate>Sun, 17 Aug 2025 10:15:00 +0000</pubDate>
+    </item>
+		
+	<item>
+      <title>Dag_103_Waarden_als_stille_kracht_achter_je_keuzes</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1mn6FxqotMattXB_R5k3TVLf2nKhxFLXV" type="audio/wav"/>
+      <guid>aflevering103</guid>
+      <pubDate>Sun, 17 Aug 2025 10:20:00 +0000</pubDate>
+    </item>
+			
+	<item>
+      <title>Dag_104_Jouw_persoonlijk_waardenprofiel_in_kaart</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1qD1qEWlHRF91pc8D6JcyDlGMJ6f94yE5" type="audio/wav"/>
+      <guid>aflevering104</guid>
+      <pubDate>Sun, 17 Aug 2025 10:25:00 +0000</pubDate>
+    </item>
+			
+	<item>
+      <title>Dag_105_Van_wat_je_drijft_naar_hoe_je_denkt</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=12F3f5OZTZ5dPL58IC1PQ16pFRcMa6E8B" type="audio/wav"/>
+      <guid>aflevering105</guid>
+      <pubDate>Sun, 17 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
+				
+	<item>
+      <title>Dag_106_Wat_zijn_metaprogramma_s</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1iP5y88Oefp3Pz9gPnSPCihPzXD0PoKvc" type="audio/wav"/>
+      <guid>aflevering106</guid>
+      <pubDate>Sun, 24 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+					
+	<item>
+      <title>Dag_107_Van_probleemgericht_naar_doelgericht_denken</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1uTaQayAYacX-1w4GWh9xaHb5q36WaTw3" type="audio/wav"/>
+      <guid>aflevering107</guid>
+      <pubDate>Sun, 24 Aug 2025 10:05:00 +0000</pubDate>
+    </item>
+		
+	<item>
+      <title>Dag_108_Intern_versus_extern_referentiekader</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1GoUAN3RZPELybLECOZQwfijvOtq083Sj" type="audio/wav"/>
+      <guid>aflevering108</guid>
+      <pubDate>Sun, 24 Aug 2025 10:10:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_109_Opties_of_procedures</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=19R0xmWLNgh7DkTiuU-Kgk_LxQPwUpup0" type="audio/wav"/>
+      <guid>aflevering109</guid>
+      <pubDate>Sun, 24 Aug 2025 10:15:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_110_Proactief_of_reactief</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Z7o8FNY9psAr1CswGfD4PtCjpLZ0X56L" type="audio/wav"/>
+      <guid>aflevering110</guid>
+      <pubDate>Sun, 24 Aug 2025 10:20:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_111_Naartoe_of_weg_van</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1qTOONgBpgtj5OY_pOIEFP3bdU6bB_bHc" type="audio/wav"/>
+      <guid>aflevering111</guid>
+      <pubDate>Sun, 24 Aug 2025 10:25:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_112_Overeenkomsten_of_verschillen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1nGnZeqbORP9EZi0fdL-vCNivmLuJAFTg" type="audio/wav"/>
+      <guid>aflevering112</guid>
+      <pubDate>Sun, 24 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_113_Waar_ligt_de_bron_van_jouw_controle_</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1bODBwm-gDzuOmMjwOr1D0i-L3EgzTktJ" type="audio/wav"/>
+      <guid>aflevering113</guid>
+      <pubDate>Sun, 31 Aug 2025 10:00:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_114_Behouden_ontwikkelen_of_veranderen</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Jukpp4Cf4niiVIUNZAlHIk8WrP5VVsaY" type="audio/wav"/>
+      <guid>aflevering114</guid>
+      <pubDate>Sun, 31 Aug 2025 10:05:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_115_Zoom_jij_uit_of_juist_in</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1vWzjuaPrkA1LPC8n7R08c-Qi2psAXaWT" type="audio/wav"/>
+      <guid>aflevering115</guid>
+      <pubDate>Sun, 31 Aug 2025 10:10:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_116_Mensen_activiteiten_of_informatie</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1SYeayaf1kRwijLoOEtphRO20jyyzKUGP" type="audio/wav"/>
+      <guid>aflevering116</guid>
+      <pubDate>Sun, 31 Aug 2025 10:15:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_117_Hoe_jij_de_wereld_ordent_in_je_hoofd</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1yLMRas6NTzQK5Mri4I5zhuDnGf5Qnr4L" type="audio/wav"/>
+      <guid>aflevering117</guid>
+      <pubDate>Sun, 31 Aug 2025 10:20:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_118_Hoe_jij_het_liefst_met_anderen_omgaat</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1_VC52mxabSwEgWNiCBKv0vwc_0dKRFT5" type="audio/wav"/>
+      <guid>aflevering118</guid>
+      <pubDate>Sun, 31 Aug 2025 10:25:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_119_Verleden_heden_of_de_toekomst</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1Z-zcCw1I9YUHqJILkxeSykwIPTPYKA26" type="audio/wav"/>
+      <guid>aflevering119</guid>
+      <pubDate>Sun, 31 Aug 2025 10:30:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_120_Visueel_auditief_of_kinesthetisch</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1MifRDXmaDVAtZBWgeb4v_OcxzL8GJWWR" type="audio/wav"/>
+      <guid>aflevering120</guid>
+      <pubDate>Sun, 07 Sep 2025 10:00:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_121_Jouw_metaprogrammas_in_kaart</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1-PKel9xoqQbTO77TP6UJmhb3F__zpdiy" type="audio/wav"/>
+      <guid>aflevering121</guid>
+      <pubDate>Sun, 07 Sep 2025 10:05:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_122_De_sleutel_tot_diepere_afstemming_en_begrip</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1QEvbwtGxa8k_4obXb7luo1tSjQ6HcgB7" type="audio/wav"/>
+      <guid>aflevering122</guid>
+      <pubDate>Sun, 07 Sep 2025 10:10:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_123_Communiceren_op_het_kanaal_van_de_ander</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1xIoVfBtlD_6MV0rd1Ya78WJVOQm4So2f" type="audio/wav"/>
+      <guid>aflevering123</guid>
+      <pubDate>Sun, 07 Sep 2025 10:15:00 +0000</pubDate>
+    </item>
+
+	<item>
+      <title>Dag_124_Je_filters_je_kracht</title>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1613S3qEWQy6yv3MEo8hMRwujGUV1w0ao" type="audio/wav"/>
+      <guid>aflevering124</guid>
+      <pubDate>Sun, 07 Sep 2025 10:20:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
